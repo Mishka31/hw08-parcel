@@ -1,4 +1,4 @@
-# parcel-project-template
+# https://mishka31.github.io/hw08-parcel/
 
 ## Зависимости
 
